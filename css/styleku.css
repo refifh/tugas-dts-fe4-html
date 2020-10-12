@@ -4,6 +4,7 @@
     padding: 0;
     background-color:black;
     overflow: hidden;
+    
 }
 
 .navbar > li {
@@ -33,18 +34,18 @@ div > .sticky {
 }
 
 .container{
-    width: 950px;
+    width: 100%;
 }
 
 .divkiri{
     float: left;
     padding: 20px;
-    width: 680px;
+    width: 70%;
 }
 
 .divkanan{
     float: right;
-    width: 250px;
+    width: 25%;
     padding: 10px;
     margin: 0 auto;
 }
